@@ -13,3 +13,4 @@ pip-selfcheck.json
 __pycache__
 .vscode
 env_var.sh
+chrome_driver/chromedriver_linux64.zip

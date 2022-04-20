@@ -4,4 +4,5 @@ import repository
 import pprint
 
 if '__main__' == __name__:
-    os.system('. env_var.sh')
+    os.system('zsh token')
+    print(repository.get_token())
